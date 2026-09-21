@@ -5,6 +5,6 @@ main: "rayfield.RayFieldJavaMod"
 
 description: "A Mindustry mod that adds a new planet Diemos. An underwater cavern type planet swarming with plant life. DO NOT DOWNLOAD"
 
-version: "0.1.0"
+version: 0.1.0
 minGameVersion: 160.0
 java: true
