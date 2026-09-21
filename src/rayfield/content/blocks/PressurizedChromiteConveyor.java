@@ -1,4 +1,4 @@
-package rayfield.content;
+package rayfield.content.blocks;
 
 import mindustry.content.*;
 import mindustry.type.*;
