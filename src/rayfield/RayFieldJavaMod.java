@@ -2,7 +2,7 @@ package rayfield;
 
 import arc.util.*;
 import mindustry.mod.*;
-import rayfield.content.PressurizedChromiteConveyor;
+import rayfield.content.blocks.PressurizedChromiteConveyor;
 
 public class RayFieldJavaMod extends Mod {
 
